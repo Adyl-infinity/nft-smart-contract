@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/imx-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/client-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web/react-app" vcs="Git" />
+  </component>
+</project>
